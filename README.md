@@ -1,1 +1,1 @@
-# odin-recipes
+It was my first experience of creating WEB Page. It actually was very easy, but interesting. Looking forward for new challenges. # odin-recipes
